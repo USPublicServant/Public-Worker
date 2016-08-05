@@ -1,6 +1,6 @@
 # Public-Worker
-Yelp for Politicians 
-This is a public project. does not and will not belong to anybody.
+Yelp for Politicians. Spread this. 
+This is a public project does not and will not belong to anybody.
 This is the US version of the project.
 High concept Steps:
 1 Get a .org website for the project
