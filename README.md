@@ -11,4 +11,5 @@ High concept Steps:
 6 It will send you an alert about upcoming elections and the candidates running for it.   (with a link if you want to run, which will put you on the page with only verifiable information) 
 7 Ability to create surveys and petitions which can be non-anonymously voted for and then tweeted to the related candidates as well as those in office.
 
-PS I am still learning to code 
+
+
